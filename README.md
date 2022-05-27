@@ -11,3 +11,15 @@
 
 
 GOOD LUCK ;)
+
+Deprem Bilgisi Çekme
+![DEPREM](https://user-images.githubusercontent.com/86168164/170768909-4f37ffc1-74fd-4889-abdb-c96c357013fb.png)
+Dijital Saat
+![SAAT](https://user-images.githubusercontent.com/86168164/170768945-7dc043e0-8c77-45a4-8428-1ead234b0ac7.png)
+Yılan Serdar
+![GAME](https://user-images.githubusercontent.com/86168164/170768959-8ec234c9-0c4b-443e-b2de-63cfa1d106b1.png)
+Şifre Oluşturucu
+![PASSWD](https://user-images.githubusercontent.com/86168164/170768997-3d8c4426-f6f8-4b7b-b0cf-1567b5fd8200.png)
+Chrome Logosu Çizici
+![CHROME](https://user-images.githubusercontent.com/86168164/170769013-b13b7213-aead-4b0a-975d-5d518678d169.png)
+
